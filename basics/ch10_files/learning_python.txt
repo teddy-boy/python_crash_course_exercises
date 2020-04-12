@@ -1,0 +1,3 @@
+In Python you can create classes and objects
+In Python you can read and write files
+In Python you can define your own functions
